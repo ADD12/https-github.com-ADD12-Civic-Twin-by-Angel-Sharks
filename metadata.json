@@ -1,0 +1,8 @@
+{
+  "name": "Civic Twin by Angel Sharks",
+  "description": "A comprehensive digital twin platform for cities and communities, integrating NIST Smart City frameworks with live GIS data and AI-driven urban insights.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ]
+}
